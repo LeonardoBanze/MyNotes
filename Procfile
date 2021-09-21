@@ -1,1 +1,1 @@
-web: json-server --watch db.json --port 5000
+web: node app.js
